@@ -1,0 +1,12 @@
+Flask
+gunicorn
+pandas
+numpy
+sklearn
+matplotlib
+seaborn
+PyYAML
+evidently
+dill
+-e .
+OpenCV
